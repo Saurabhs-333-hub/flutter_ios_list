@@ -1,4 +1,4 @@
-# thoughts
+# flutter_ios_list
 
 A new Flutter project.
 
